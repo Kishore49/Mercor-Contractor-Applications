@@ -1,0 +1,71 @@
+2025-09-15 23:34:56,803 - INFO - Configuration validated successfully
+2025-09-15 23:34:56,806 - INFO - Gemini AI configured successfully
+2025-09-15 23:35:06,778 - INFO - Retrieved 0 records from Personal Details
+2025-09-15 23:35:08,225 - INFO - Retrieved 0 records from Work Experience
+2025-09-15 23:35:09,700 - INFO - Retrieved 0 records from Salary Preferences
+2025-09-15 23:35:09,701 - INFO - Compressed data for applicant 123
+2025-09-15 23:35:13,189 - INFO - Retrieved 0 records from Applicants
+2025-09-15 23:38:54,323 - INFO - Retrieved 2 records from Personal Details
+2025-09-15 23:38:55,759 - INFO - Retrieved 1 records from Work Experience
+2025-09-15 23:38:57,301 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-15 23:38:57,302 - INFO - Compressed data for applicant 12
+2025-09-15 23:38:58,782 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:39:14,819 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:39:16,294 - INFO - Retrieved 1 records from Work Experience
+2025-09-15 23:39:16,295 - INFO - Decompressed data for applicant 12
+2025-09-15 23:39:28,123 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:39:29,767 - INFO - Shortlist processed for 12: Not Qualified - NOT QUALIFIED: 
+2025-09-15 23:39:47,908 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:39:48,700 - WARNING - LLM request failed, retrying in 1s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:39:50,091 - WARNING - LLM request failed, retrying in 2s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:39:52,539 - ERROR - LLM evaluation failed after 3 attempts: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:39:54,137 - INFO - LLM evaluation updated for 12
+2025-09-15 23:40:07,906 - INFO - Retrieved 2 records from Personal Details
+2025-09-15 23:40:09,520 - INFO - Retrieved 1 records from Work Experience
+2025-09-15 23:40:10,962 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-15 23:40:10,962 - INFO - Compressed data for applicant 12
+2025-09-15 23:40:13,502 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:17,855 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:19,311 - INFO - Shortlist processed for 12: Not Qualified - NOT QUALIFIED: 
+2025-09-15 23:40:20,717 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:21,097 - WARNING - LLM request failed, retrying in 1s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:22,477 - WARNING - LLM request failed, retrying in 2s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:24,855 - ERROR - LLM evaluation failed after 3 attempts: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:26,618 - INFO - LLM evaluation updated for 12
+2025-09-15 23:40:36,111 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:37,457 - INFO - Retrieved 2 records from Personal Details
+2025-09-15 23:40:38,817 - INFO - Retrieved 1 records from Work Experience
+2025-09-15 23:40:40,069 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-15 23:40:40,070 - INFO - Compressed data for applicant 12
+2025-09-15 23:40:42,899 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:46,784 - INFO - Shortlist processed for 12: Not Qualified - NOT QUALIFIED: 
+2025-09-15 23:40:49,842 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:40:50,219 - WARNING - LLM request failed, retrying in 1s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:51,739 - WARNING - LLM request failed, retrying in 2s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:54,132 - ERROR - LLM evaluation failed after 3 attempts: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-15 23:40:55,614 - INFO - LLM evaluation updated for 12
+2025-09-15 23:40:55,615 - INFO - Batch processing completed: {'compressed': 1, 'shortlisted': 1, 'llm_evaluated': 1, 'errors': 0}
+2025-09-15 23:41:04,446 - INFO - Retrieved 1 records from Applicants
+2025-09-15 23:41:05,860 - INFO - Retrieved 2 records from Personal Details
+2025-09-15 23:41:07,156 - INFO - Retrieved 1 records from Work Experience
+2025-09-15 23:41:08,710 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-15 23:41:10,142 - INFO - Retrieved 0 records from Shortlisted Leads
+2025-09-16 01:16:29,212 - INFO - Configuration validated successfully
+2025-09-16 01:16:29,212 - INFO - Gemini AI configured successfully
+2025-09-16 01:16:35,806 - INFO - Retrieved 1 records from Applicants
+2025-09-16 01:16:37,212 - INFO - Retrieved 2 records from Personal Details
+2025-09-16 01:16:38,693 - INFO - Retrieved 1 records from Work Experience
+2025-09-16 01:16:40,027 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-16 01:16:41,306 - INFO - Retrieved 0 records from Shortlisted Leads
+2025-09-16 01:16:47,980 - INFO - Retrieved 2 records from Personal Details
+2025-09-16 01:16:49,347 - INFO - Retrieved 1 records from Work Experience
+2025-09-16 01:16:50,908 - INFO - Retrieved 1 records from Salary Preferences
+2025-09-16 01:16:50,909 - INFO - Compressed data for applicant 12
+2025-09-16 01:16:52,295 - INFO - Retrieved 1 records from Applicants
+2025-09-16 01:16:55,201 - INFO - Retrieved 1 records from Applicants
+2025-09-16 01:16:56,667 - INFO - Shortlist processed for 12: Not Qualified - NOT QUALIFIED: 
+2025-09-16 01:16:57,921 - INFO - Retrieved 1 records from Applicants
+2025-09-16 01:16:59,794 - WARNING - LLM request failed, retrying in 1s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-16 01:17:01,159 - WARNING - LLM request failed, retrying in 2s: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-16 01:17:03,632 - ERROR - LLM evaluation failed after 3 attempts: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-09-16 01:17:05,076 - INFO - LLM evaluation updated for 12
